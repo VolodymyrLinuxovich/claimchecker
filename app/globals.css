@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100vh;
+  background-color: #080c11;
+  color: #d4d4d8;
+  background-image:
+    radial-gradient(
+      ellipse 90% 55% at 50% -12%,
+      rgba(45, 212, 191, 0.04),
+      transparent 50%
+    ),
+    radial-gradient(
+      ellipse 45% 35% at 95% 15%,
+      rgba(82, 104, 130, 0.05),
+      transparent 50%
+    );
+}
+
+.claim-grid-bg {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.012) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.012) 1px, transparent 1px);
+  background-size: 56px 56px;
+}
