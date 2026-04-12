@@ -20,7 +20,7 @@
 ---
 
 **Hackathon:** Stanford LLM x Law Hackathon #6  
-**Team:** Volodymyr Borysenko, add teammates here  
+**Team:** Volodymyr Borysenko
 **Track:** Harvey Challenge / Best Overall  
 **Live demo:** Add deployed URL here  
 **Local demo:** `http://localhost:3000`
